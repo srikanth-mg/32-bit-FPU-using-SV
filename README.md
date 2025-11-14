@@ -43,8 +43,13 @@ This project implements a 32-bit IEEE 754 compliant Floating Point Unit (FPU) us
 - Implement hardware rounding modes
 - Integrate with pipelined CPU core
 
-## Author
-**Srikanth Muthuvel Ganthimathi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/srikanth9503/)
+## 👨‍💻 Author
+Srikanth Muthuvel Ganthimathi
+
+## 📜 License
+
+This project is for educational and research purposes.
+You may modify or extend the design freely.
+
 
 
